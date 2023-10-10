@@ -1,2 +1,2 @@
-# django_admin_tool
-Admin template to getting started with django
+# django_send_mail
+Sending django mail by setting env variables
